@@ -2,8 +2,8 @@
 
 A minimal, simple and good looking lamp, based on ESP8266 and MHz19b Co2 sensor. 
 
-This lamp is good way to introduce yourself into the PCBs and 3d printing world, as well you build a quite decorative and cute lamp. 
-
+This lamp is good way to introduce yourself into the PCBs and 3d printing world, as well you build a quite decorative and cute lamp.
+PS. This is my first project with arduino and my second repository on GitHub.
 
 
 https://user-images.githubusercontent.com/91851271/232823344-01003170-eaa2-429d-a9bf-3f29856314a1.mp4
@@ -33,7 +33,9 @@ Then comes the electrical stuff, components which are on the list below. For the
 
 1. Option. You can choose to use simple cables by soldering them and then slam them into the base of the lamp. (The connections for this are in a .pdf called schematic) 
 
-2. Option. The other way to do this is to order a PCB, this is a more organized way of packaging everything and at the same time gives your project a more professional looking (To order the PCB there is .zip with all the gerber files which you will have to use to order your PCB trough sites such as jlcpcb.com "it is not an ad", you don't have to unzip it most providers require the full zip) 
+2. Option. The other way to do this is to order a PCB, this is a more organized way of packaging everything and at the same time gives your project a more professional looking (To order the PCB there is .zip with all the gerber files which you will have to use to order your PCB trough sites such as jlcpcb.com "it is not an ad", you don't have to unzip it most providers require the full zip). 
+
+Update, I notice the board has a serious design problem, it works fine but I should have used a Diod right bafor the 10uf capacitor.
 
 ![IMG_2766](https://user-images.githubusercontent.com/91851271/232711891-a06405e1-0338-41cf-b4b2-486d14af7c11.jpg)
 
