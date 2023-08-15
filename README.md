@@ -35,12 +35,14 @@ Then comes the electrical stuff, components which are on the list below. For the
 
 2. Option. The other way to do this is to order a PCB, this is a more organized way of packaging everything and at the same time gives your project a more professional looking (To order the PCB there is .zip with all the gerber files which you will have to use to order your PCB trough sites such as jlcpcb.com "it is not an ad", you don't have to unzip it most providers require the full zip). 
 
-Update, I notice the board has a serious design problem, it works fine but I should have used a Diod right bafor the 10uf capacitor.
+Update, I notice the board has a serious design problem, it works fine but the capacitor does not work (it hasn`t been properly placed to smooth the voltage of the load and doesn`t have much sense), also a diod should have been used. If you want to use the desing of the board uploaded on GitHub keep in mind to not place any capacitor and bypass the pins
+
 
 ![IMG_2766](https://user-images.githubusercontent.com/91851271/232711891-a06405e1-0338-41cf-b4b2-486d14af7c11.jpg)
 
 ### Software
-I've used the Arduino cloud service in order to get the mqtt runing
+I've used the Arduino Cloud MQTT service in order to controll the lamp trough internet
+
 
 ![Untitled Diagram](https://user-images.githubusercontent.com/91851271/232711106-da8e662e-794d-4c92-abea-56df0ff7d983.jpg)
 
