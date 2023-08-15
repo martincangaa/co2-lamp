@@ -2,7 +2,7 @@
 
 A minimal, simple and good looking lamp, based on ESP8266 and MHz19b Co2 sensor. 
 
-This lamp is good way to introduce yourself into the PCBs and 3d printing world, as well you build a quite decorative and cute lamp.
+This lamp is good way to introduce yourself into the PCBs and 3d printing world, while at the same time you build a quite decorative and cute lamp.
 PS. This is my first project with arduino and my second repository on GitHub.
 
 
