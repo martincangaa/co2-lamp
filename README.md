@@ -4,7 +4,7 @@
 
 A minimal and probably overkill lamp, based on the microcontroller ESP8266 and MHZ-19B Co2 sensor that allow us to have controll over the Co2 levels in our room, kitchen...
 
-This lamp is good way to introduce yourself into the Arduino and 3d printing world, while at the same time you build a quite decorative and cute lamp.
+This lamp is a good way to introduce yourself into the Arduino and 3d printing world, while at the same time you build a quite decorative and cute lamp.
 
 PS. This is my first project with arduino.
 
@@ -53,6 +53,9 @@ Once you have everything printed, you'll only need to polish the parts with some
 Then comes the electrical stuff, components which are on the upper list (components). For the wiring you have two options:
 
 1. Option. You can choose to solder the components through wires following the next circuit (this is the cheapest and most reliable way to do it):
+
+![circuit](https://github.com/martincangaa/co2-lamp/assets/91851271/b275a265-6c71-4e6d-a853-7381a02e91d2)
+
 
   2. Option. Order a PCB (expensive and overengineered option don't do it) you can download the gerber files in the folder of the repository called desing files
 
