@@ -11,7 +11,8 @@ PS. This is my first project with arduino.
 https://user-images.githubusercontent.com/91851271/232823344-01003170-eaa2-429d-a9bf-3f29856314a1.mp4
 
   
-  
+  ![IMG_5844](https://github.com/martincangaa/co2-lamp/assets/91851271/e64f07eb-c2ac-4885-aaae-6cab6e8dde99)
+
   
 
 ### Features:
@@ -24,6 +25,7 @@ https://user-images.githubusercontent.com/91851271/232823344-01003170-eaa2-429d-
 * Co2 mode integrated with the lamp that tell us the  Co2 levels based on its color
 
 
+![Screenshot_1](https://github.com/martincangaa/co2-lamp/assets/91851271/df559e85-4e83-4b6f-9b0d-1eab1309f15d)
 
   
 
@@ -75,6 +77,9 @@ The lamp uses Arduino Cloud MQTT service in order to controll the lamp trough in
 OneButton | [Matthias Hertel](https://github.com/mathertel/OneButton)
 Neopixel (must use version 1.8.4)| [Adafruit](https://github.com/WifWaf/MH-Z19)
 > Also you will have to install the arduino IoT libraries (When you try to verify the program arduino will tell you which libraries you'll need)
+
+![Diagrama en blanco](https://github.com/martincangaa/co2-lamp/assets/91851271/63844829-9be0-43f5-9594-7accbd572c01)
+
 
   > Logic diagram from the lamp functions.
 
