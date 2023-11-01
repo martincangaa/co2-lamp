@@ -11,9 +11,6 @@ PS. This is my first project with arduino.
 https://user-images.githubusercontent.com/91851271/232823344-01003170-eaa2-429d-a9bf-3f29856314a1.mp4
 
   
-  ![IMG_5844](https://github.com/martincangaa/co2-lamp/assets/91851271/e64f07eb-c2ac-4885-aaae-6cab6e8dde99)
-
-  
 
 ### Features:
 
@@ -57,10 +54,8 @@ Then comes the electrical stuff, components which are on the upper list (compone
 
 1. Option. You can choose to solder the components through wires following the next circuit (this is the cheapest and most reliable way to do it):
 
-  2. Option. Order a PCB (expensive and overengineered option don do it) you can download the gerber files in the folder of the ropository desing files
+  2. Option. Order a PCB (expensive and overengineered option don't do it) you can download the gerber files in the folder of the repository called desing files
 
-
-  
   
 
 ![IMG_2766](https://user-images.githubusercontent.com/91851271/232711891-a06405e1-0338-41cf-b4b2-486d14af7c11.jpg)
@@ -78,7 +73,8 @@ OneButton | [Matthias Hertel](https://github.com/mathertel/OneButton)
 Neopixel (must use version 1.8.4)| [Adafruit](https://github.com/WifWaf/MH-Z19)
 > Also you will have to install the arduino IoT libraries (When you try to verify the program arduino will tell you which libraries you'll need)
 
-![Diagrama en blanco](https://github.com/martincangaa/co2-lamp/assets/91851271/63844829-9be0-43f5-9594-7accbd572c01)
+![Diagrama en blanco (1)](https://github.com/martincangaa/co2-lamp/assets/91851271/3b7d7375-1c23-4fbb-b2a5-3bc5623cb8a6)
+
 
 
   > Logic diagram from the lamp functions.
